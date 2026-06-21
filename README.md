@@ -61,7 +61,6 @@ This project is an IoT-based child safety system that uses GPS and geofencing te
 ## 📸 Project Files
 - Project Presentation (PPT)
 - Circuit Diagram
-- Project Report (To be Added)
 
 ## 📄 License
 This project is developed for academic and educational purposes.
